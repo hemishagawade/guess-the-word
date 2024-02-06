@@ -1,4 +1,4 @@
-Word Game
+# Word Game
 
 # Introduction:
 This is a simple word game where players need to create words using a given set of letters. The game consists of multiple levels, each with a different set of letters to form words from. Players can continue progressing through levels as long as they have lives remaining.
